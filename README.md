@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @onurboyar
 - 👀 I’m Ph.D. Researcher and Research Assistant at Nagoya University, Japan.
-- 🌱 I’m currently learning XXX
-- 💞️ I’m looking to collaborate on YYY
-- 📫 How to reach me ZZZ
+- My research interests are: Latent Space Bayesian Optimization, Generative Models for Sequence data, MCMC
+- 📫 Personal Website: onurboyar.com
 
 <!---
 onurboyar/onurboyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
