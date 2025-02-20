@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onurboyar
-- 👀 I’m research intern at IBM and Ph.D. Student at Nagoya University, Japan.
+- 👀 I’m researcher at RIKEN and Ph.D. Student at Nagoya University, Japan.
 - My research interests are: Latent Space Bayesian Optimization, Generative Models for Sequence data, MCMC
 - 📫 Personal Website: [onurboyar.com](https://onurboyar.com)
 
